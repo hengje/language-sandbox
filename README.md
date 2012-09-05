@@ -11,7 +11,7 @@ Test problems
 Pivo is a simple (and stupid) drinking game: One person start by saying "1", 
 the next person says "2" and the counting continue with the following twist:
 For each number that is divisble by 7 (7, 14, 21, ...) or contains a seven 
-(1, 17, 27, ...) the word "PIVO" has to be used instead of the actual number.
+(7, 17, 27, ...) the word "PIVO" has to be used instead of the actual number.
 The first person that hesitates or miss has to drink...  ;-)
 
 The first problem is modeled after this drinking game:
