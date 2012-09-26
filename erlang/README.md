@@ -3,7 +3,7 @@ Erlang
 
 To run/test
 -----------
-erl
-c(eulerXX).
-eulerXX:eulerXX().
+    erl
+    c(eulerXX).
+    eulerXX:eulerXX().
 
